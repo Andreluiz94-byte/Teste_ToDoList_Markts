@@ -2,7 +2,7 @@
 
 ## Descrição do Aplicativo
 
-O **Lista de Tarefas** é um aplicativo desenvolvido especialmente para a empresa como teste técnico [Markts](https://www.markts.com.br/). Este aplicativo tem como principal objetivo simplificar a gestão de tarefas, permitindo aos usuários adicionar, editar, salvar e excluir suas atividades de forma eficiente e organizada.
+O **Lista de Tarefas** é um aplicativo desenvolvido como teste técnico para a empresa [Markts](https://www.markts.com.br/). Este aplicativo tem como principal objetivo simplificar a gestão de tarefas, permitindo aos usuários adicionar, editar, salvar e excluir suas atividades de forma eficiente e organizada.
 
 ## Recursos Principais
 
